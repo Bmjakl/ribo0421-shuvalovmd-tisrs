@@ -1,4 +1,8 @@
 # ribo0421-shuvalovmd-tisrs
-Repo for practical tasks for the course "Testirovanie i sertifikacia radioelectronnih sredstv".
-Group: RIBO-04-21.
-Student: Shuvalov Mikhail.
+Репозиторий для практичеких заданий по курсу "Тестирование и cертификация hадиоэлектронных средств".
+Группа: РИБО-04-21
+Студент: Шувалов Михаил
+Вариант: 2
+
+Папка "pz1" - Практическое задание 1
+Папка ...
