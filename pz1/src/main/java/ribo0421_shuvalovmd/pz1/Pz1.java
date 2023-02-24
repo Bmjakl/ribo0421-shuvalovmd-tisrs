@@ -13,6 +13,13 @@ import java.util.Scanner;
 public class Pz1 {
 
     public static void main(String[] args) {
+        
+    // Вариант 2. Разработать программу – банковский калькулятор вклада для
+    //вычисления ежемесячного дохода и итогового дохода. Начисление процентов
+    //происходит ежемесячно. Длительность вклада (в месяцах), годовой процент
+    //по вкладу и начальную сумму вводит пользователь с клавиатуры. При
+    //выполнении задания обязательно использовать цикл for.
+
         Scanner scan = new Scanner(System.in);
         System.out.println("Enter the duration (in months): ");
         int month = scan.nextInt();
